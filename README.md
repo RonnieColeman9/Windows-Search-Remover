@@ -25,8 +25,12 @@ Complete the steps to disable and remove Windows Search.
 
 ### 🚨 (Disclaimer) 🚨
 Use at Your Own Risk: Disabling Windows Search is a system-level change. Please ensure you understand the implications before proceeding.
+
 Backup Your System: It is strongly recommended to create a backup or system restore point before using this tool.
-Alternative Search Software Required: After removing Windows Search, you must download and install another search utility for file-searching capabilities. We recommend [Win10](https://open-shell.github.io/Open-Shell-Menu/) for its speed and low resource usage.
+
+Alternative Search Software Required: After removing Windows Search, you must download and install another search utility for file-searching capabilities. 
+
+We recommend [Win10]([Win10](https://github.com/Open-Shell/Open-Shell-Menu/releases/tag/v4.4.191) [Win11]( for its speed and low resource usage.
 
 
 
