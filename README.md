@@ -2,7 +2,7 @@
 
 Windows Search Remover is a lightweight utility designed to disable and remove Windows Search, freeing up valuable system resources and improving overall system performance. By removing Windows Search, your system becomes more efficient, leaving more resources available for other tasks—especially gaming.
 
-For those who rely on file search capabilities, this tool recommends replacing Windows Search with [Insert Alternative Software Name Here], a faster and more efficient search utility.
+For those who rely on file search capabilities, a faster and more efficient search utility.
 
 ## Features
 
@@ -30,7 +30,7 @@ Backup Your System: It is strongly recommended to create a backup or system rest
 
 Alternative Search Software Required: After removing Windows Search, you must download and install another search utility for file-searching capabilities. 
 
-We recommend [Win10](https://github.com/Open-Shell/Open-Shell-Menu/releases/tag/v4.4.191) [Win11](https://www.startallback.com/) for its speed and low resource usage.
+We recommend [Win10](https://github.com/Open-Shell/Open-Shell-Menu/releases/tag/v4.4.191) and [Win11](https://www.startallback.com/) for its speed and low resource usage.
 
 
 
