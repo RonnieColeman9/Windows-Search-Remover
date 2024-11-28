@@ -30,7 +30,7 @@ Backup Your System: It is strongly recommended to create a backup or system rest
 
 Alternative Search Software Required: After removing Windows Search, you must download and install another search utility for file-searching capabilities. 
 
-We recommend ([Win10](https://github.com/Open-Shell/Open-Shell-Menu/releases/tag/v4.4.191) ([Win11](https://www.startallback.com/) for its speed and low resource usage.
+We recommend [Win10](https://github.com/Open-Shell/Open-Shell-Menu/releases/tag/v4.4.191) [Win11](https://www.startallback.com/) for its speed and low resource usage.
 
 
 
